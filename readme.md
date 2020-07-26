@@ -1,0 +1,1 @@
+API Simples de exemplo em SQLITE utilizando Flask, SqlAlchemy e SQLMarshmallow
